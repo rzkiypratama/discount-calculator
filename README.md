@@ -15,7 +15,7 @@ It is made with html, css, javascript, you dont need credential id to access thi
 Clone the project
 
 ```bash
-  git clone https://link-to-project
+  git clone https://github.com/rzkiypratama/discount-calculator
 ```
 
 Go to the project directory
